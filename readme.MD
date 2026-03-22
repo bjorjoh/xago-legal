@@ -26,14 +26,14 @@ xago-legal/
 #### 02-pte-license-agreement.md
 > Comment: This is the draft of the PTE license agreement with Xago Software AS customers that purchase PTE licenses from us. 
 
-A **Per-Tenant Extension (PTE)** in Microsoft Dynamics 365 Business Central is a deployment model for custom-developed software that is installed individually in each customer’s Business Central environment.
+> A **Per-Tenant Extension (PTE)** in Microsoft Dynamics 365 Business Central is a deployment model for custom-developed software that is installed individually in each customer’s Business Central environment.
 
-Although the same extension codebase is used across multiple customers, it is **not distributed through Microsoft AppSource** and is instead deployed directly to each tenant. This means the solution is technically treated as a **customer-specific customization**, even if it is standardized in practice.
+> Although the same extension codebase is used across multiple customers, it is **not distributed through Microsoft AppSource** and is instead deployed directly to each tenant. This means the solution is technically treated as a **customer-specific customization**, even if it is standardized in practice.
 
-PTEs are subject to fewer platform restrictions than AppSource apps and allow deeper integration with the customer’s ERP environment. However, they are **not centrally published, validated, or managed by Microsoft’s marketplace**, and responsibility for deployment, updates, and compliance rests with the provider.
+> PTEs are subject to fewer platform restrictions than AppSource apps and allow deeper integration with the customer’s ERP environment. However, they are **not centrally published, validated, or managed by Microsoft’s marketplace**, and responsibility for deployment, updates, and compliance rests with the provider.
 
-**In summary:**  
-A PTE is a **privately distributed extension, installed per customer environment, even when the functionality is standardized across customers**.
+> **In summary:**  
+> A PTE is a **privately distributed extension, installed per customer environment, even when the functionality is standardized across customers**.
 
 #### mca_no_for_reference.md
 > Comment: This is added as a reference for the Microsoft Customer Agreement that our customers sign. It's between the Customer and Microsoft, added for reference purposes only.

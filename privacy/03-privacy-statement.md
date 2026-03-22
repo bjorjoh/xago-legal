@@ -5,8 +5,7 @@
 
 ---
 
-> **På ett øyeblikk:** Xago er programvareleverandør til bedrifter. Vi lagrer kun det vi trenger for å levere og drifte tjenestene våre. Vi selger aldri dine data. Din arbeidsgiver (kunden vår) er ansvarlig for personopplysningene som lagres i deres Business Central-miljø — ikke vi.
-
+> Xago leverer programvare til bedrifter. Vi lagrer kun opplysninger som er nødvendige for å levere og drifte tjenestene våre, og vi selger aldri dine data. Det er din arbeidsgiver (vår kunde) som har ansvaret for personopplysningene i deres Business Central-miljø — ikke Xago.
 ---
 
 ## 1. Hvem er vi

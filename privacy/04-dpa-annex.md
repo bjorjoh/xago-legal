@@ -100,7 +100,6 @@ Xago behandler personopplysninger om Kundens brukere i forbindelse med drift av 
 - Navn og e-postadresse (fra Entra ID / Azure AD)
 - Hashet telefonnummer for varslinger *(merk: lavt entropitall — Xago vurderer dette som personopplysninger og behandler det deretter)*
 - Brukerrolle og tilgangsnivå
-- Aktivitetslogg knyttet til operasjoner i Dispatcher
 
 ### 5.5 Lagringstid
 

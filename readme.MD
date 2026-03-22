@@ -24,7 +24,9 @@ xago-legal/
 > Comment: This is the draft of the CSP related agreement with Xago Software AS customers that purchase Microsoft licenses from us.
 
 #### 02-pte-license-agreement.md
-> Comment: This is the draft of the PTE license agreement with Xago Software AS customers that purchase PTE licenses from us. A **Per-Tenant Extension (PTE)** in Microsoft Dynamics 365 Business Central is a deployment model for custom-developed software that is installed individually in each customer’s Business Central environment.
+> Comment: This is the draft of the PTE license agreement with Xago Software AS customers that purchase PTE licenses from us. 
+
+A **Per-Tenant Extension (PTE)** in Microsoft Dynamics 365 Business Central is a deployment model for custom-developed software that is installed individually in each customer’s Business Central environment.
 
 Although the same extension codebase is used across multiple customers, it is **not distributed through Microsoft AppSource** and is instead deployed directly to each tenant. This means the solution is technically treated as a **customer-specific customization**, even if it is standardized in practice.
 
@@ -43,6 +45,7 @@ A PTE is a **privately distributed extension, installed per customer environment
 
 #### 03-privacy-statement.md
 > Comment: This is the draft of the privacy statement for Xago Software AS.
+
 
 #### 04-dpa-annex.md
 > Comment: This is the draft of the DPA Annex for Xago Software AS

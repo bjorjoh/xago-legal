@@ -57,8 +57,8 @@ xago-legal/
 
 | Document | Status | Last Updated |
 |---|---|---|
-| 01 Microsoft CSP Agreement | 🟡 Draft | 2026-03-19 |
-| 02 PTE License Agreement | 🟡 Draft | 2026-03-19 |
+| 01 Microsoft CSP Agreement | 🟡 Draft | 2026-10-22 |
+| 02 PTE License Agreement | 🟡 Draft | 2026-10-22 |
 | 03 Privacy Statement | 🟡 Draft | 2026-03-19 |
 | 04 DPA Annex | 🟡 Draft | 2026-03-19 |
 | 05 EULA | 🟡 Draft | 2026-03-19 |

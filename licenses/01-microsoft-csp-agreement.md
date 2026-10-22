@@ -1,4 +1,4 @@
-# Avtale om Microsoft Dynamics 365 Business Central-lisenser
+# Rammeavtale om Microsoft-lisenser (CSP)
 **Microsoft License Resale Agreement — Indirect Reseller**
 
 ---
@@ -8,7 +8,7 @@
 | **Forhandler / Reseller** | Xago Software AS, org.nr. 927 323 388, Hasle Linje 10, 0571 Oslo |
 | **Kunde / Customer** | [CUSTOMER NAME], org.nr. [CUSTOMER ORG.NO], [ADDRESS] |
 | **Avtaledato / Date** | [DATE] |
-| **Produkt** | Microsoft Dynamics 365 Business Central |
+| **Produkt** | Microsoft-lisenser i CSP-programmet, herunder Microsoft Dynamics 365 Business Central og Microsoft 365 |
 
 ---
 
@@ -28,7 +28,17 @@ Kunden aksepterer at lisensene er underlagt Microsofts egne vilkår, herunder Mi
 
 ## 2. Lisenstyper og prising
 
-### 2.1 Tilgjengelige lisenstyper
+### 2.1 Rammeavtale
+
+Denne avtalen er en rammeavtale. Kunden kan i avtaleperioden bestille alle lisenser og abonnementer som til enhver tid er tilgjengelige i Microsofts CSP-økosystem gjennom Forhandleren, herunder Microsoft Dynamics 365, Microsoft 365, Office 365, Exchange Online og andre Microsoft-skytjenester.
+
+Hver bestilling (herunder økning eller reduksjon i antall lisenser og tillegg av nye lisenstyper) bekreftes skriftlig av Forhandleren gjennom ordrebekreftelse. Bestillinger er underlagt vilkårene i denne avtalen og Microsofts gjeldende vilkår for det aktuelle produktet.
+
+Tilgjengelighet av lisenstyper kan variere og er avhengig av Microsofts til enhver tid gjeldende produkttilbud.
+
+### 2.2 Eksempler på lisenstyper
+
+Tabellen under viser eksempler på lisenstyper som omfattes av avtalen, herunder lisenser Kunden har ved avtaleinngåelse. Listen er ikke uttømmende.
 
 | Lisenstype | Beskrivelse |
 |---|---|
@@ -36,18 +46,22 @@ Kunden aksepterer at lisensene er underlagt Microsofts egne vilkår, herunder Mi
 | Business Central Premium | Full tilgang inkl. produksjon og service |
 | Team Member | Begrenset lesetilgang og enkle oppgaver |
 | Device | Delt enhetslisens for produksjonsmiljøer |
+| (NCE) Exchange Online (Plan 1) | E-post, kalender og kontakter med 50 GB postboks |
+| (NCE) Office 365 E3 | Office-applikasjoner, e-post, Teams, SharePoint og OneDrive |
 
-Tilgjengelighet av lisenstyper kan variere og er avhengig av Microsofts til enhver tid gjeldende produkttilbud.
+### 2.3 Prising
 
-### 2.2 Prising
+Priser fastsettes av Forhandleren med utgangspunkt i gjeldende grossistpriser fra Distributøren, med Forhandlerens margin pålagt. Gjeldende priser fremgår av separat pristilbud eller ordrebekreftelse for den enkelte bestilling.
 
-Priser fastsettes av Forhandleren med utgangspunkt i gjeldende grossistpriser fra Distributøren, med Forhandlerens margin pålagt. Gjeldende priser fremgår av separat pristilbud eller ordrebekreftelse.
+Standard prising er basert på **årlig binding med årlig fakturering**. Månedlig fakturering kan tilbys etter forespørsel, og vil normalt innebære et pristillegg på om lag **20 %** sammenlignet med årlig fakturering.
 
 Priser kan justeres med **30 dagers skriftlig varsel** dersom Microsofts eller Distributørens grossistpriser endres. Eventuelle rabatter eller tilbud fra Microsoft som er beregnet på Kunden, skal videreformidles i tråd med vilkårene i CSP-programmet.
 
-### 2.3 Fakturering
+### 2.4 Fakturering
 
-- Fakturering skjer månedlig, etterskuddsvis
+- Fakturering skjer årlig, forskuddsvis, med mindre månedlig fakturering er avtalt i henhold til punkt 2.3
+- Ved månedlig fakturering faktureres det månedlig, forskuddsvis
+- Lisenser som legges til i løpet av en periode faktureres forholdsmessig
 - Betalingsfrist: 30 dager fra fakturadato
 - Alle priser er eks. MVA
 - Ved forsinket betaling kan Forhandleren kreve forsinkelsesrente i henhold til forsinkelsesrenteloven

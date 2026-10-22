@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Forhandler / Reseller** | Xago Software AS, org.nr. 927 323 388, Hasle Linje 10, 0571 Oslo |
+| **Forhandler / Reseller** | Xago Software AS, org.nr. 922 021 074, Frydenbergveien 46B, 0575 Oslo |
 | **Kunde / Customer** | [CUSTOMER NAME], org.nr. [CUSTOMER ORG.NO], [ADDRESS] |
 | **Avtaledato / Date** | [DATE] |
 | **Produkt** | Microsoft-lisenser i CSP-programmet, herunder Microsoft Dynamics 365 Business Central og Microsoft 365 |
@@ -62,7 +62,7 @@ Priser kan justeres med **30 dagers skriftlig varsel** dersom Microsofts eller D
 - Fakturering skjer årlig, forskuddsvis, med mindre månedlig fakturering er avtalt i henhold til punkt 2.3
 - Ved månedlig fakturering faktureres det månedlig, forskuddsvis
 - Lisenser som legges til i løpet av en periode faktureres forholdsmessig
-- Betalingsfrist: 30 dager fra fakturadato
+- Betalingsfrist: 10 dager fra fakturadato
 - Alle priser er eks. MVA
 - Ved forsinket betaling kan Forhandleren kreve forsinkelsesrente i henhold til forsinkelsesrenteloven
 

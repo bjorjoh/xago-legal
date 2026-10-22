@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **Behandlingsansvarlig / Data Controller** | [CUSTOMER NAME], org.nr. [CUSTOMER ORG.NO], [ADDRESS] |
-| **Databehandler / Data Processor** | Xago Software AS, org.nr. 927 323 388, Hasle Linje 10, 0571 Oslo |
+| **Databehandler / Data Processor** | Xago Software AS, org.nr. 922 021 074, Frydenbergveien 46B, 0575 Oslo |
 | **Tilknyttet avtale** | Lisensavtale for Xago PTE-applikasjoner, datert [DATE] |
 | **DPA-dato** | [DATE] |
 

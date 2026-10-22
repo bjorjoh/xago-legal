@@ -14,7 +14,7 @@
 
 Denne sluttbrukerlisensavtalen ("EULA") er en avtale mellom:
 
-- **Xago Software AS** ("Xago"), org.nr. 927 323 388, Hasle Linje 10, 0571 Oslo — utvikler og eier av programvaren, og
+- **Xago Software AS** ("Xago"), org.nr. 922 021 074, Frydenbergveien 46B, 0575 Oslo — utvikler og eier av programvaren, og
 - **Deg som sluttbruker** ("Bruker") — den fysiske personen som benytter programvaren.
 
 Merk: Dersom du benytter Xago-programvare gjennom din arbeidsgiver, er din arbeidsgiver (Kunden) bundet av en separat lisensavtale med Xago. Denne EULA regulerer dine individuelle rettigheter og plikter som sluttbruker.
@@ -104,7 +104,7 @@ Xago kan oppdatere denne EULA. Du vil bli varslet om vesentlige endringer via Pr
 For spørsmål om Programvaren eller disse vilkårene:
 
 **Xago Software AS**
-Hasle Linje 10, 0571 Oslo
+Frydenbergveien 46B, 0575 Oslo
 E-post: [support@xago.no](mailto:support@xago.no)
 Nettside: [xago.no](https://xago.no)
 

@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Leverandør / Licensor** | Xago Software AS, org.nr. 927 323 388, Hasle Linje 10, 0571 Oslo |
+| **Leverandør / Licensor** | Xago Software AS, org.nr. 922 021 074, Frydenbergveien 46B, 0575 Oslo |
 | **Kunde / Licensee** | [CUSTOMER NAME], org.nr. [CUSTOMER ORG.NO], [ADDRESS] |
 | **Avtaledato / Date** | [DATE] |
 | **Produkt(er)** | [e.g. Xago Dispatcher, Xago Nordic, andre Xago-applikasjoner] |

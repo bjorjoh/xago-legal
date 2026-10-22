@@ -10,7 +10,7 @@
 
 ## 1. Hvem er vi
 
-Xago Software AS ("Xago", "vi", "oss") er et norsk programvareselskap med org.nr. 927 323 388, med adresse Hasle Linje 10, 0571 Oslo.
+Xago Software AS ("Xago", "vi", "oss") er et norsk programvareselskap med org.nr. 922 021 074, med adresse Frydenbergveien 46B, 0575 Oslo.
 
 Vi leverer programvareløsninger — primært utvidelser til Microsoft Dynamics 365 Business Central og Xago Dispatcher — til bedrifter i Norge og Norden.
 
@@ -127,7 +127,7 @@ Vi kan oppdatere denne erklæringen ved behov. Vesentlige endringer varsles på 
 ## 11. Kontaktinformasjon
 
 **Xago Software AS**
-Hasle Linje 10, 0571 Oslo
+Frydenbergveien 46B, 0575 Oslo
 E-post: [privacy@xago.no](mailto:privacy@xago.no)
 Nettside: [xago.no/privacy]
 
